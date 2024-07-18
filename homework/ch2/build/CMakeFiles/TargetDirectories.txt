@@ -1,3 +1,0 @@
-/home/vislab/ccxie/cpp_related/For_Backup/CSAPP/homework/ch2/build/CMakeFiles/main.dir
-/home/vislab/ccxie/cpp_related/For_Backup/CSAPP/homework/ch2/build/CMakeFiles/edit_cache.dir
-/home/vislab/ccxie/cpp_related/For_Backup/CSAPP/homework/ch2/build/CMakeFiles/rebuild_cache.dir
